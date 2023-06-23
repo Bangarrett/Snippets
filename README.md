@@ -1,4 +1,4 @@
-# ej6_gusto
+
 getCode es una aplicación web desarrollada con el framework Laravel utilizando Laravel Sail y Tailwind CSS. La aplicación está diseñada para permitir a los usuarios subir y compartir su código con otros usuarios de la plataforma, los usuarios no registrados pueden explorar por la web de forma limitada. getCode ofrece una interfaz sencilla y amigable para crear y visualizar los diferentes snippets de codigo publicados.
 
 ## Características
